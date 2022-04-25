@@ -1,4 +1,0 @@
-module zzzzz {
-	ddd
-	adf
-}
