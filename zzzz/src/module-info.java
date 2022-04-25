@@ -1,4 +1,0 @@
-module zzzz {
-	
-	zzzsdf
-}d
